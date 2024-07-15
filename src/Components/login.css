@@ -1,0 +1,21 @@
+#login{
+    width:100vw;
+    height: 100vh;
+}
+
+#loginform{
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.loginbutton{
+    border-radius:0 !important;
+}
+
+#email{
+    border-radius:0 !important; 
+}
+
+#password{
+    border-radius:0 !important; 
+}
